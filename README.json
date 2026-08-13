@@ -1,0 +1,415 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polymer boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2015-07-07T21:59:16Z",
+            "owner": "webcomponents",
+            "repo": "polymer-boilerplate",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymer Admin",
+          "description": "Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-04-18T12:42:35Z",
+            "owner": "akveo",
+            "repo": "polymer-admin",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed element",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-01-25T21:55:54Z",
+            "owner": "googlearchive",
+            "repo": "seed-element",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor-Polymer Starter Kit",
+          "description": "Kickstart a Meteor - Polymer project with MWC packages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-04T12:36:53Z",
+            "owner": "aruntk",
+            "repo": "kickstart-meteor-polymer",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor-Polymer Starter Kit Including Auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-04T12:44:46Z",
+            "owner": "aruntk",
+            "repo": "kickstart-meteor-polymer-with-auth",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lit-html",
+          "description": "HTML templates, via JavaScript template literals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T18:36:25Z",
+            "owner": "lit",
+            "repo": "lit",
+            "stars": 21771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulcanize",
+          "description": "Build tool for HTMLimports and web components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-04-09T22:06:11Z",
+            "owner": "Polymer",
+            "repo": "polymer-bundler",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymer Webpack Loader",
+          "description": ". Polymer webpack loader.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T19:32:45Z",
+            "owner": "Banno",
+            "repo": "polymer-webpack-loader",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyserve",
+          "description": "A simple web server for using bower components locally.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-04-10T05:13:44Z",
+            "owner": "Polymer",
+            "repo": "polyserve",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polydev",
+          "description": "DevTool extension.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-03-29T21:58:45Z",
+            "owner": "PolymerLabs",
+            "repo": "polydev",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polylint",
+          "description": "Detect errors in your code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-11-16T21:04:56Z",
+            "owner": "googlearchive",
+            "repo": "polylint",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crisper",
+          "description": "Split inline scripts from an HTML file for CSP compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-08-01T21:57:14Z",
+            "owner": "PolymerLabs",
+            "repo": "crisper",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WC-Loader",
+          "description": ". Webcomponents webpack loader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-09T23:11:41Z",
+            "owner": "aruntk",
+            "repo": "wc-loader",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polybuild",
+          "description": "An all-in-one build tool for Polymer apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-11-23T06:40:57Z",
+            "owner": "googlearchive",
+            "repo": "polybuild",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymer CDN",
+          "description": ". Unofficial CDN for polymer components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-10-03T03:48:43Z",
+            "owner": "Download",
+            "repo": "polymer-cdn",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyup",
+          "description": "A helpful assistant for migrating from Polymer v0.5 to 1.0.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-04-28T01:42:36Z",
+            "owner": "googlearchive",
+            "repo": "polyup",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthesis",
+          "description": "Use Polymer as the view Layer of Meteor.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-14T07:58:47Z",
+            "owner": "meteorwebcomponents",
+            "repo": "synthesis",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MWC-Layout",
+          "description": "Control rendering of polymer components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-04-07T04:58:57Z",
+            "owner": "meteorwebcomponents",
+            "repo": "layout",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web components tester",
+          "description": "Makes testing your web components a breeze!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T05:11:15Z",
+            "owner": "Polymer",
+            "repo": "web-component-tester",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web components tester istambul",
+          "description": "Istanbul coverage plugin for web-component-tester.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-08T13:36:11Z",
+            "owner": "thedeeno",
+            "repo": "web-component-tester-istanbul",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iron-test-helpers",
+          "description": "Utility classes to make testing easier.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-10-09T19:04:28Z",
+            "owner": "PolymerElements",
+            "repo": "iron-test-helpers",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-fixture",
+          "description": "Element that can simplify the exercise of consistently resetting a test suite's DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T05:07:27Z",
+            "owner": "PolymerElements",
+            "repo": "test-fixture",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polymer-Redux",
+          "description": "Polymer bindings for Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:05:09Z",
+            "owner": "tur-nr",
+            "repo": "polymer-redux",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymer-Apollo",
+          "description": "Polymer Apollo GraphQL Integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-21T23:24:58Z",
+            "owner": "aruntk",
+            "repo": "polymer-apollo",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MWC-Mixin",
+          "description": "Reactive meteor data source for polymer elements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-04T05:47:05Z",
+            "owner": "meteorwebcomponents",
+            "repo": "mixin",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MWC-Router",
+          "description": "Two way bind polymer with Meteor Flowrouter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-12T09:04:13Z",
+            "owner": "meteorwebcomponents",
+            "repo": "router",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Behaviors"
+    },
+    {
+      "description": "Polymer Projects A list of websites and apps built with Polymer",
+      "items": [],
+      "title": "Notable projects"
+    },
+    {
+      "description": "If you want more awesome resources, check the awesome list!",
+      "items": [],
+      "title": "Other awesome resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:29.544Z",
+    "original_repository": "Granze/awesome-polymer",
+    "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
+    "enhanced_repository": "enhansome/enhansome-polymer",
+    "enhanced_repository_description": null,
+    "title": "Awesome Polymer with stars"
+  }
+}
