@@ -90,7 +90,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21767
+            "stars": 21766
           }
         },
         {
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:21:47.468Z",
+    "last_updated": "2026-08-18T05:14:05.997Z",
     "original_repository": "Granze/awesome-polymer",
     "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
     "enhanced_repository": "enhansome/enhansome-polymer",
