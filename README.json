@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12218029,
             "language": "HTML",
             "last_commit": "2015-07-07T21:59:16Z",
             "owner": "webcomponents",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43351667,
             "language": "HTML",
             "last_commit": "2017-04-18T12:42:35Z",
             "owner": "akveo",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18388099,
             "language": "HTML",
             "last_commit": "2017-01-25T21:55:54Z",
             "owner": "googlearchive",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55239406,
             "language": "JavaScript",
             "last_commit": "2017-03-04T12:36:53Z",
             "owner": "aruntk",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57969306,
             "language": "JavaScript",
             "last_commit": "2017-03-04T12:44:46Z",
             "owner": "aruntk",
@@ -77,7 +82,7 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95797174,
             "language": "TypeScript",
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21770
+            "stars": 21772
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13599100,
             "language": "TypeScript",
             "last_commit": "2018-04-09T22:06:11Z",
             "owner": "Polymer",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90194265,
             "language": "JavaScript",
             "last_commit": "2026-07-01T19:32:45Z",
             "owner": "Banno",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32489037,
             "language": "TypeScript",
             "last_commit": "2018-04-10T05:13:44Z",
             "owner": "Polymer",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41890272,
             "language": "HTML",
             "last_commit": "2017-03-29T21:58:45Z",
             "owner": "PolymerLabs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35176904,
             "language": "TypeScript",
             "last_commit": "2017-11-16T21:04:56Z",
             "owner": "googlearchive",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33572435,
             "language": "JavaScript",
             "last_commit": "2017-08-01T21:57:14Z",
             "owner": "PolymerLabs",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77438731,
             "language": "JavaScript",
             "last_commit": "2017-08-09T23:11:41Z",
             "owner": "aruntk",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35913209,
             "language": "JavaScript",
             "last_commit": "2016-11-23T06:40:57Z",
             "owner": "googlearchive",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39265722,
             "language": "HTML",
             "last_commit": "2018-10-03T03:48:43Z",
             "owner": "Download",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37877227,
             "language": "JavaScript",
             "last_commit": "2016-04-28T01:42:36Z",
             "owner": "googlearchive",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55228711,
             "language": "JavaScript",
             "last_commit": "2017-12-14T07:58:47Z",
             "owner": "meteorwebcomponents",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46127739,
             "language": "HTML",
             "last_commit": "2017-04-07T04:58:57Z",
             "owner": "meteorwebcomponents",
@@ -265,7 +283,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23168206,
             "language": "TypeScript",
             "last_commit": "2026-06-20T05:11:15Z",
             "owner": "Polymer",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25928149,
             "language": "JavaScript",
             "last_commit": "2018-03-08T13:36:11Z",
             "owner": "thedeeno",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34407976,
             "language": "JavaScript",
             "last_commit": "2024-10-09T19:04:28Z",
             "owner": "PolymerElements",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34015355,
             "language": "JavaScript",
             "last_commit": "2026-06-24T05:07:27Z",
             "owner": "PolymerElements",
@@ -327,7 +349,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43003744,
             "language": "JavaScript",
             "last_commit": "2022-12-07T01:05:09Z",
             "owner": "tur-nr",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69362956,
             "language": "JavaScript",
             "last_commit": "2018-08-21T23:24:58Z",
             "owner": "aruntk",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50521673,
             "language": "JavaScript",
             "last_commit": "2017-05-04T05:47:05Z",
             "owner": "meteorwebcomponents",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53049490,
             "language": "JavaScript",
             "last_commit": "2016-04-12T09:04:13Z",
             "owner": "meteorwebcomponents",
@@ -387,26 +413,12 @@
         }
       ],
       "title": "Behaviors"
-    },
-    {
-      "description": "Polymer Projects A list of websites and apps built with Polymer",
-      "items": [],
-      "title": "Notable projects"
-    },
-    {
-      "description": "If you want more awesome resources, check the awesome list!",
-      "items": [],
-      "title": "Other awesome resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:13:55.206Z",
+    "last_updated": "2026-08-19T12:45:55.678Z",
     "original_repository": "Granze/awesome-polymer",
+    "original_repository_id": 33659483,
     "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
     "enhanced_repository": "enhansome/enhansome-polymer",
     "enhanced_repository_description": null,
