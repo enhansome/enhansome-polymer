@@ -147,7 +147,7 @@
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,359 | 🐛 106 | 📅 2026-08-21 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21 list!**
 
 ***
 
