@@ -102,7 +102,7 @@
 
 ## Tools
 
-* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,784 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 HTML templates, via JavaScript template literals.
+* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,788 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 HTML templates, via JavaScript template literals.
 * [Vulcanize](https://github.com/Polymer/vulcanize) ⚠️ Archived Build tool for HTMLimports and web components.
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader) ⚠️ Archived. Polymer webpack loader.
 * [Polyserve](https://github.com/polymerlabs/polyserve) ⚠️ Archived A simple web server for using bower components locally.
@@ -130,7 +130,7 @@
 
 ## Behaviors
 
-* [Polymer-Redux](https://github.com/tur-nr/polymer-redux) ⭐ 437 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-07 Polymer bindings for Redux.
+* [Polymer-Redux](https://github.com/tur-nr/polymer-redux) ⭐ 436 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-07 Polymer bindings for Redux.
 * [Polymer-Apollo](https://github.com/aruntk/polymer-apollo) ⭐ 77 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-21 Polymer Apollo GraphQL Integration.
 * [MWC-Mixin](https://github.com/meteorwebcomponents/mixin) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-04 Reactive meteor data source for polymer elements
 * [MWC-Router](https://github.com/meteorwebcomponents/router) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-12 Two way bind polymer with Meteor Flowrouter.
@@ -147,7 +147,7 @@
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,985 | 🐛 106 | 📅 2026-08-21 list!**
 
 ***
 
@@ -157,4 +157,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

@@ -96,7 +96,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21784
+            "stars": 21788
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2022-12-07T01:05:09Z",
             "owner": "tur-nr",
             "repo": "polymer-redux",
-            "stars": 437
+            "stars": 436
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:49.064Z",
+    "last_updated": "2026-08-26T05:16:58.372Z",
     "original_repository": "Granze/awesome-polymer",
     "original_repository_id": 33659483,
     "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
