@@ -102,7 +102,7 @@
 
 ## Tools
 
-* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,788 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 HTML templates, via JavaScript template literals.
+* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,789 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 HTML templates, via JavaScript template literals.
 * [Vulcanize](https://github.com/Polymer/vulcanize) ⚠️ Archived Build tool for HTMLimports and web components.
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader) ⚠️ Archived. Polymer webpack loader.
 * [Polyserve](https://github.com/polymerlabs/polyserve) ⚠️ Archived A simple web server for using bower components locally.
@@ -147,7 +147,7 @@
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,365 | 🐛 105 | 📅 2026-08-21 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,421 | 🐛 105 | 📅 2026-08-21 list!**
 
 ***
 
