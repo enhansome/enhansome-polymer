@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:16:58.372Z",
-    "original_repository": "Granze/awesome-polymer",
-    "original_repository_id": 33659483,
+    "last_updated": "2026-08-27T11:56:09.270Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 33659483,
+      "language": null,
+      "last_commit": "2018-03-21T18:52:01Z",
+      "owner": "Granze",
+      "repo": "awesome-polymer",
+      "stars": 401
+    },
     "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
     "enhanced_repository": "enhansome/enhansome-polymer",
     "enhanced_repository_description": null,
