@@ -16,7 +16,8 @@
             "owner": "webcomponents",
             "repo": "polymer-boilerplate",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "akveo",
             "repo": "polymer-admin",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "googlearchive",
             "repo": "seed-element",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "aruntk",
             "repo": "kickstart-meteor-polymer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "aruntk",
             "repo": "kickstart-meteor-polymer-with-auth",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         }
       ],
       "title": "Boilerplates"
@@ -96,8 +101,9 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21789
-          }
+            "stars": 21792
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Polymer",
             "repo": "polymer-bundler",
             "stars": 1191
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "Banno",
             "repo": "polymer-webpack-loader",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Polymer",
             "repo": "polyserve",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "PolymerLabs",
             "repo": "polydev",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "googlearchive",
             "repo": "polylint",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "PolymerLabs",
             "repo": "crisper",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "aruntk",
             "repo": "wc-loader",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "googlearchive",
             "repo": "polybuild",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Download",
             "repo": "polymer-cdn",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "googlearchive",
             "repo": "polyup",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "meteorwebcomponents",
             "repo": "synthesis",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "meteorwebcomponents",
             "repo": "layout",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         }
       ],
       "title": "Tools"
@@ -298,7 +316,8 @@
             "owner": "Polymer",
             "repo": "web-component-tester",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "thedeeno",
             "repo": "web-component-tester-istanbul",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "PolymerElements",
             "repo": "iron-test-helpers",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "PolymerElements",
             "repo": "test-fixture",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         }
       ],
       "title": "Testing"
@@ -364,7 +386,8 @@
             "owner": "tur-nr",
             "repo": "polymer-redux",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "aruntk",
             "repo": "polymer-apollo",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "meteorwebcomponents",
             "repo": "mixin",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         },
         {
           "node_type": "item",
@@ -409,14 +434,15 @@
             "owner": "meteorwebcomponents",
             "repo": "router",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:56:03.855Z"
         }
       ],
       "title": "Behaviors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:32:03.961Z",
+    "last_updated": "2026-08-28T16:56:03.855Z",
     "original_repository_info": {
       "archived": false,
       "id": 33659483,
