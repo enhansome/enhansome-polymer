@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fork this repo if you want to start your own Web Component using Polymer",
+            "homepage": null,
             "id": 12218029,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-07-07T21:59:16Z",
+            "open_issues": 1,
             "owner": "webcomponents",
             "repo": "polymer-boilerplate",
-            "stars": 369
+            "stars": 369,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polymer admin dashboard",
+            "homepage": "https://polymer-admin.firebaseapp.com/",
             "id": 43351667,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-04-18T12:42:35Z",
+            "open_issues": 8,
             "owner": "akveo",
             "repo": "polymer-admin",
-            "stars": 295
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Polymer element boilerplate",
+            "homepage": null,
             "id": 18388099,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-01-25T21:55:54Z",
+            "open_issues": 4,
             "owner": "googlearchive",
             "repo": "seed-element",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -58,12 +73,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Kickstart a Meteor - Polymer project with MWC packages. (Flow Router is used to route)",
+            "homepage": null,
             "id": 55239406,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-04T12:36:53Z",
+            "open_issues": 0,
             "owner": "aruntk",
             "repo": "kickstart-meteor-polymer",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "bower-components",
+              "meteor",
+              "meteor-polymer",
+              "mwc",
+              "polymer",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -74,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: kickstart a meteor polymer project using mwc projects",
+            "homepage": null,
             "id": 57969306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-04T12:44:46Z",
+            "open_issues": 0,
             "owner": "aruntk",
             "repo": "kickstart-meteor-polymer-with-auth",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "meteor",
+              "meteor-polymer",
+              "polymer",
+              "synthesis",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         }
@@ -96,12 +134,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "homepage": "https://lit.dev",
             "id": 95797174,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-25T18:36:25Z",
+            "open_issues": 719,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21792
+            "stars": 21793,
+            "topics": [
+              "html-templates",
+              "lit",
+              "lit-element",
+              "lit-html"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -112,12 +160,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to Polymer/tools monorepo ",
+            "homepage": "https://github.com/Polymer/tools/tree/master/packages/bundler",
             "id": 13599100,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-04-09T22:06:11Z",
+            "open_issues": 0,
             "owner": "Polymer",
             "repo": "polymer-bundler",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "polymer",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -128,12 +184,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WebPack Loader for Polymer Web Components",
+            "homepage": null,
             "id": 90194265,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T19:32:45Z",
+            "open_issues": 0,
             "owner": "Banno",
             "repo": "polymer-webpack-loader",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "polymer",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -144,12 +209,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to Polymer/tools monorepo",
+            "homepage": "https://github.com/Polymer/tools/tree/master/packages/polyserve",
             "id": 32489037,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-04-10T05:13:44Z",
+            "open_issues": 0,
             "owner": "Polymer",
             "repo": "polyserve",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "bower",
+              "dev-server",
+              "http2",
+              "polymer",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -160,12 +236,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatic web components profiling in chrome devtools",
+            "homepage": null,
             "id": 41890272,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-03-29T21:58:45Z",
+            "open_issues": 11,
             "owner": "PolymerLabs",
             "repo": "polydev",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "chrome-devtools",
+              "chrome-devtools-extension",
+              "chrome-extension",
+              "performance-metrics",
+              "polymer",
+              "profiling",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -176,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lint polymer!",
+            "homepage": null,
             "id": 35176904,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-11-16T21:04:56Z",
+            "open_issues": 84,
             "owner": "googlearchive",
             "repo": "polylint",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -192,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 33572435,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-08-01T21:57:14Z",
+            "open_issues": 21,
             "owner": "PolymerLabs",
             "repo": "crisper",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -208,12 +307,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":toilet: Webcomponents webpack loader.",
+            "homepage": null,
             "id": 77438731,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-09T23:11:41Z",
+            "open_issues": 7,
             "owner": "aruntk",
             "repo": "wc-loader",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "polymer",
+              "wc-loader",
+              "webcomponents",
+              "webcomponents-webpack-loader",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -224,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy Optimization Tool / Gulp plugin",
+            "homepage": null,
             "id": 35913209,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-11-23T06:40:57Z",
+            "open_issues": 15,
             "owner": "googlearchive",
             "repo": "polybuild",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -240,12 +355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mirror of Polymer's components so that they can be used directly from CDN     ",
+            "homepage": "http://download.github.io/polymer-cdn",
             "id": 39265722,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-03T03:48:43Z",
+            "open_issues": 2,
             "owner": "Download",
             "repo": "polymer-cdn",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -256,12 +376,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A helpful assistant for migrating from Polymer v0.5 to 1.0. Does many of the boring mechanical parts for you.",
+            "homepage": "http://polymerlabs.github.io/polyup/",
             "id": 37877227,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-04-28T01:42:36Z",
+            "open_issues": 20,
             "owner": "googlearchive",
             "repo": "polyup",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -272,12 +397,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: Synthesis is Meteor + Polymer",
+            "homepage": "https://atmospherejs.com/mwc/synthesis",
             "id": 55228711,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-14T07:58:47Z",
+            "open_issues": 6,
             "owner": "meteorwebcomponents",
             "repo": "synthesis",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "meteor",
+              "meteor-polymer",
+              "mwc",
+              "polymer",
+              "polymer-settings",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -288,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":airplane: polymer layout renderer",
+            "homepage": "http://bower.io/search/?q=mwc-layout",
             "id": 46127739,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-04-07T04:58:57Z",
+            "open_issues": 1,
             "owner": "meteorwebcomponents",
             "repo": "layout",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         }
@@ -310,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moved to Polymer/tools monorepo",
+            "homepage": "https://github.com/Polymer/tools/tree/master/packages/web-component-tester",
             "id": 23168206,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-20T05:11:15Z",
+            "open_issues": 28,
             "owner": "Polymer",
             "repo": "web-component-tester",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -326,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instanbul coverage reporting for projects being tested by web-component-tester",
+            "homepage": null,
             "id": 25928149,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T13:36:11Z",
+            "open_issues": 20,
             "owner": "thedeeno",
             "repo": "web-component-tester-istanbul",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -342,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility classes to make testing easier",
+            "homepage": null,
             "id": 34407976,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-10-09T19:04:28Z",
+            "open_issues": 29,
             "owner": "PolymerElements",
             "repo": "iron-test-helpers",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -358,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 34015355,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-24T05:07:27Z",
+            "open_issues": 36,
             "owner": "PolymerElements",
             "repo": "test-fixture",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         }
@@ -380,12 +542,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polymer bindings for Redux.",
+            "homepage": "https://tur-nr.github.io/polymer-redux",
             "id": 43003744,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T01:05:09Z",
+            "open_issues": 41,
             "owner": "tur-nr",
             "repo": "polymer-redux",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "bindings",
+              "polymer",
+              "redux",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -396,12 +568,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Polymer Apollo Integration",
+            "homepage": null,
             "id": 69362956,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-21T23:24:58Z",
+            "open_issues": 6,
             "owner": "aruntk",
             "repo": "polymer-apollo",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "apollo-query",
+              "polymer-apollo",
+              "polymer-components"
+            ]
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -412,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":twisted_rightwards_arrows: Mixin for polymer/webcomponents in meteor.",
+            "homepage": null,
             "id": 50521673,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-04T05:47:05Z",
+            "open_issues": 0,
             "owner": "meteorwebcomponents",
             "repo": "mixin",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         },
@@ -428,12 +616,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":stars: Use FlowRouter reactively from polymer components",
+            "homepage": "https://atmospherejs.com/mwc/router",
             "id": 53049490,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-12T09:04:13Z",
+            "open_issues": 0,
             "owner": "meteorwebcomponents",
             "repo": "router",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
         }
@@ -442,15 +635,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:56:03.855Z",
+    "last_updated": "2026-08-29T04:44:32.637Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome Polymer resources.",
+      "homepage": null,
       "id": 33659483,
       "language": null,
+      "license": null,
       "last_commit": "2018-03-21T18:52:01Z",
+      "open_issues": 0,
       "owner": "Granze",
       "repo": "awesome-polymer",
-      "stars": 401
+      "stars": 401,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "custom-elements",
+        "list",
+        "polymer",
+        "polymer-apps",
+        "polymer-element",
+        "polymer-resources",
+        "shadowdom",
+        "webcomponents"
+      ]
     },
     "original_repository_sha": "d896c9feb26eaad1d72f890dbc916138977d84c5",
     "enhanced_repository": "enhansome/enhansome-polymer",
