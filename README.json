@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "akveo",
             "repo": "polymer-admin",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
@@ -139,8 +139,8 @@
             "id": 95797174,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-25T18:36:25Z",
-            "open_issues": 722,
+            "last_commit": "2026-09-03T18:29:00Z",
+            "open_issues": 719,
             "owner": "lit",
             "repo": "lit",
             "stars": 21806,
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:12:41.337Z",
+    "last_updated": "2026-09-04T09:04:25.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",

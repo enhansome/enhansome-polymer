@@ -68,7 +68,7 @@
 ## Boilerplates
 
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate) ⚠️ Archived
-* [Polymer Admin](https://github.com/akveo/polymer-admin) ⭐ 295 | 🐛 8 | 🌐 HTML | 📅 2017-04-18 Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
+* [Polymer Admin](https://github.com/akveo/polymer-admin) ⭐ 296 | 🐛 8 | 🌐 HTML | 📅 2017-04-18 Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
 * [Seed element](https://github.com/polymerlabs/seed-element) ⚠️ Archived
 * [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-04 Kickstart a Meteor - Polymer project with MWC packages
 * [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-04
@@ -102,7 +102,7 @@
 
 ## Tools
 
-* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,806 | 🐛 722 | 🌐 TypeScript | 📅 2026-07-25 HTML templates, via JavaScript template literals.
+* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,806 | 🐛 719 | 🌐 TypeScript | 📅 2026-09-03 HTML templates, via JavaScript template literals.
 * [Vulcanize](https://github.com/Polymer/vulcanize) ⚠️ Archived Build tool for HTMLimports and web components.
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader) ⚠️ Archived. Polymer webpack loader.
 * [Polyserve](https://github.com/polymerlabs/polyserve) ⚠️ Archived A simple web server for using bower components locally.
@@ -147,7 +147,7 @@
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,524 | 🐛 105 | 📅 2026-09-02 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,828 | 🐛 106 | 📅 2026-09-02 list!**
 
 ***
 
@@ -157,4 +157,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
