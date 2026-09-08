@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "googlearchive",
             "repo": "seed-element",
-            "stars": 272,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:03.855Z"
@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T18:29:00Z",
-            "open_issues": 719,
+            "open_issues": 724,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21808,
+            "stars": 21811,
             "topics": [
               "html-templates",
               "lit",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:45:27.203Z",
+    "last_updated": "2026-09-08T09:06:54.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
