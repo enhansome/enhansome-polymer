@@ -143,7 +143,7 @@
             "open_issues": 723,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21820,
+            "stars": 21822,
             "topics": [
               "html-templates",
               "lit",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:36:27.994Z",
+    "last_updated": "2026-09-16T09:31:49.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
@@ -647,7 +647,7 @@
       "open_issues": 0,
       "owner": "Granze",
       "repo": "awesome-polymer",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "awesome",
         "awesome-list",
