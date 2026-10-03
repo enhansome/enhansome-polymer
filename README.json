@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Polymer boilerplate",
-          "description": null,
+          "description": "webcomponents/polymer-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Seed element",
-          "description": null,
+          "description": "googlearchive/seed-element",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -97,7 +97,7 @@
         {
           "node_type": "item",
           "title": "Meteor-Polymer Starter Kit Including Auth",
-          "description": null,
+          "description": "aruntk/kickstart-meteor-polymer-with-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -143,7 +143,7 @@
             "open_issues": 726,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21840,
+            "stars": 21841,
             "topics": [
               "html-templates",
               "lit",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:44:35.955Z",
+    "last_updated": "2026-10-03T05:02:43.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
