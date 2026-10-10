@@ -102,7 +102,7 @@
 
 ## Tools
 
-* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,842 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-24 HTML templates, via JavaScript template literals.
+* [lit-html](https://github.com/Polymer/lit-html) ⭐ 21,839 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-24 HTML templates, via JavaScript template literals.
 * [Vulcanize](https://github.com/Polymer/vulcanize) ⚠️ Archived Build tool for HTMLimports and web components.
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader) ⚠️ Archived. Polymer webpack loader.
 * [Polyserve](https://github.com/polymerlabs/polyserve) ⚠️ Archived A simple web server for using bower components locally.
@@ -123,7 +123,7 @@
 
 ## Testing
 
-* [Web components tester](https://github.com/Polymer/web-component-tester) ⭐ 564 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-20 Makes testing your web components a breeze!
+* [Web components tester](https://github.com/Polymer/web-component-tester) ⭐ 563 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-20 Makes testing your web components a breeze!
 * [Web components tester istambul](https://github.com/thedeeno/web-component-tester-istanbul) ⭐ 28 | 🐛 20 | 🌐 JavaScript | 📅 2018-03-08 Istanbul coverage plugin for web-component-tester.
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) ⚠️ Archived Utility classes to make testing easier.
 * [test-fixture](https://github.com/PolymerElements/test-fixture) ⭐ 21 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-24 Element that can simplify the exercise of consistently resetting a test suite's DOM.
@@ -147,7 +147,7 @@
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,563 | 🐛 106 | 📅 2026-09-02 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,991 | 🐛 106 | 📅 2026-09-02 list!**
 
 ***
 
@@ -157,4 +157,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
