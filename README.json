@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-24T17:21:02Z",
-            "open_issues": 734,
+            "open_issues": 733,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21843,
+            "stars": 21846,
             "topics": [
               "html-templates",
               "lit",
@@ -500,7 +500,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-10-09T19:04:28Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "PolymerElements",
             "repo": "iron-test-helpers",
             "stars": 26,
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:11:42.431Z",
+    "last_updated": "2026-10-14T09:44:37.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
