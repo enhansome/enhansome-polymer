@@ -143,7 +143,7 @@
             "open_issues": 733,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21846,
+            "stars": 21847,
             "topics": [
               "html-templates",
               "lit",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:44:37.404Z",
+    "last_updated": "2026-10-15T09:27:09.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
