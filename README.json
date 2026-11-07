@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-05T20:00:37Z",
-            "open_issues": 739,
+            "open_issues": 741,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21885,
+            "stars": 21886,
             "topics": [
               "html-templates",
               "lit",
@@ -169,7 +169,7 @@
             "open_issues": 0,
             "owner": "Polymer",
             "repo": "polymer-bundler",
-            "stars": 1190,
+            "stars": 1189,
             "topics": [
               "polymer",
               "web-components"
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:29:22.911Z",
+    "last_updated": "2026-11-07T11:20:29.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
