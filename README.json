@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-05T20:00:37Z",
-            "open_issues": 742,
+            "open_issues": 743,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21893,
+            "stars": 21892,
             "topics": [
               "html-templates",
               "lit",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:11:27.195Z",
+    "last_updated": "2026-11-12T13:17:30.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Polymer resources.",
